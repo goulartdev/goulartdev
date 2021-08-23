@@ -2,7 +2,7 @@
 
 I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil.
 
-### Languages and tools:
+### 🛠 Languages and tools
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
@@ -21,7 +21,7 @@ I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil.
   <img alt="Django" src="https://img.shields.io/badge/-Django-0C4B33?style=flat&logo=django&logoColor=white" />
 </p>
 
-### My github stats 📈
+### 📈 My GitHub stats
 
 <a href="https://github.com/goulartdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goulartdev&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" alt="Djonathan's github stats"/>
