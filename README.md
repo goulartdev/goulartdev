@@ -1,4 +1,4 @@
-## Hey there, welcome! 👋
+## Hey there, welcome! 😁
 
 I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil.
 
