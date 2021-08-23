@@ -13,6 +13,7 @@ I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil.
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-E34F26?style=flat&logo=jupyter&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
   <img alt="QGIS" src="https://img.shields.io/badge/-QGIS-108300?style=flat&logo=qgis&logoColor=white" />
@@ -24,6 +25,7 @@ I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil.
 
 <a href="https://github.com/goulartdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goulartdev&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" alt="Djonathan's github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartdev&layout=compact&langs_count=7&theme=vue-dark"/>
 </a>
 
 ### Where to find me
