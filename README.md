@@ -30,6 +30,7 @@ I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil.
 <p>
   <a href="https://github.com/goulartdev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/d-goulart/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:d.goulart@outlook.com.br" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Mail-FFFFFF?style=flat&logo=gmail&logoColor=DD0031" /></a>
 </p>
 
 <!--
