@@ -25,7 +25,7 @@ I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil.
 
 <a href="https://github.com/goulartdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goulartdev&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" alt="Djonathan's github stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartdev&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartdev&layout=compact&langs_count=7&theme=vue-dark&hide=jupyter%20notebook"/>
 </a>
 
 ### Where to find me
