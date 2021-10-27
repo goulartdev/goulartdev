@@ -7,7 +7,9 @@
 </p>
 <br />
 
-<p>I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil. Enthusiastic for geotechnology and spatial intelligence 🌎🛰. Currently working with Typescript, Angular, Pyhton and Django REST.</p>
+<p>
+  I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil. Enthusiastic for geotechnology and spatial intelligence 🌎🛰. Currently working with Typescript, Angular, Pyhton and Django REST.
+</p>
 <br />
 
 <h2 align="center">🛠 Languages and tools</h2>
