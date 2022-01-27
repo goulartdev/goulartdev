@@ -8,7 +8,7 @@
 <br />
 
 <p>
-  I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil. Enthusiastic for geotechnology and spatial intelligence 🌎🛰. Currently working with Typescript, Angular, Pyhton and Django REST.
+  I'm Djonathan, full-stack developer and geoprocessing analyst from Brazil. Enthusiastic for geotechnology and spatial intelligence 🌎🛰. Currently working with Typescript, Angular, Python and Django REST.
 </p>
 <br />
 
@@ -37,7 +37,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goulartdev&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" alt="Djonathan's github stats"/>
-  <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulartdev&layout=compact&langs_count=7&theme=vue-dark&hide=jupyter%20notebook"/>
 </p>
 
