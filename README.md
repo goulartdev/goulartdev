@@ -15,13 +15,11 @@
 <h2 align="center">🛠 Languages and tools</h2>
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
   <img alt="Google Earth Engine" src="https://img.shields.io/badge/-Google_Earth_Engine-46a2f1.svg?style=flat&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-2B5B84?style=flat&logo=python&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-E34F26?style=flat&logo=jupyter&logoColor=white" />
