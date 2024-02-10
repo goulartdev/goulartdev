@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/d-goulart/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:djonathan.goulart@gmail.com"><img src="https://img.shields.io/badge/-Mail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=DD0031" alt="Email" /></a>&nbsp;
+  <a href="mailto:contact@djonathan.dev"><img src="https://img.shields.io/badge/-Mail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=DD0031" alt="Email" /></a>&nbsp;
 </p>
 <br />
 
